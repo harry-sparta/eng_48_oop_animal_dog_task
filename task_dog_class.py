@@ -1,4 +1,4 @@
-# Dog Class file
+# 2.) Dog Class file
 from task_animal_class import *
 
 # Creating Dog class:
